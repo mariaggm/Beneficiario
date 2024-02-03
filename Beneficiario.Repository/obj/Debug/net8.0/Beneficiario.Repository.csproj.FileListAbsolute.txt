@@ -1,0 +1,15 @@
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.csproj.AssemblyReference.cache
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.AssemblyInfoInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.AssemblyInfo.cs
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.csproj.CoreCompileInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\bin\Debug\net8.0\Beneficiario.Repository.deps.json
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\bin\Debug\net8.0\Beneficiario.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\bin\Debug\net8.0\Beneficiario.Repository.pdb
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\bin\Debug\net8.0\Beneficiario.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\bin\Debug\net8.0\Beneficiario.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.csproj.CopyComplete
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\refint\Beneficiario.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\Beneficiario.Repository.pdb
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Repository\obj\Debug\net8.0\ref\Beneficiario.Repository.dll

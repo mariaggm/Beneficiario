@@ -1,0 +1,11 @@
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\bin\Debug\net8.0\Beneficiario.Domain.deps.json
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\bin\Debug\net8.0\Beneficiario.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\bin\Debug\net8.0\Beneficiario.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.AssemblyInfoInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.AssemblyInfo.cs
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\refint\Beneficiario.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\Beneficiario.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Beneficiario\Beneficiario.Domain\obj\Debug\net8.0\ref\Beneficiario.Domain.dll
